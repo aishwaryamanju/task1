@@ -1,2 +1,2 @@
-print "Hello World"
+print "Helo World"
 print "First One"
